@@ -1,1 +1,1 @@
-module.exports = 'CIRED'
+module.exports = 'Factores que Impactan el Aprendizaje Integral'
