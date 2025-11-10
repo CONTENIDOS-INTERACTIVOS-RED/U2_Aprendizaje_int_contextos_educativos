@@ -241,8 +241,8 @@
       .p-4.p-md-5
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/9cqLwqWDCzs?si=F1b2M6SlLRnGqFf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/E0yXRZhfLHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+   
     h2(data-aos="fade-left") Introducción a los mecanismos funcionales de la neuroplasticidad
     p.mb-5 Los hallazgos de Lee (2024) permiten afirmar que incluso los procesos de aprendizaje más complejos, como la formación de la memoria explícita, se basan en mecanismos de plasticidad sináptica. Esta capacidad del cerebro para reorganizar sus conexiones neuronales —añadiendo nuevas y eliminando las que no son necesarias— es esencial para que podamos aprender, adaptarnos y desarrollarnos. A continuación, se detallan los principales mecanismos mediante los cuales la neuroplasticidad interviene en el aprendizaje:
 
